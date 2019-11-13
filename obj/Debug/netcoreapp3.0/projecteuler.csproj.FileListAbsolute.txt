@@ -1,0 +1,11 @@
+C:\Users\Charlie.Benjamin\Documents\projecteuler\bin\Debug\netcoreapp3.0\projecteuler.exe
+C:\Users\Charlie.Benjamin\Documents\projecteuler\bin\Debug\netcoreapp3.0\projecteuler.deps.json
+C:\Users\Charlie.Benjamin\Documents\projecteuler\bin\Debug\netcoreapp3.0\projecteuler.runtimeconfig.json
+C:\Users\Charlie.Benjamin\Documents\projecteuler\bin\Debug\netcoreapp3.0\projecteuler.runtimeconfig.dev.json
+C:\Users\Charlie.Benjamin\Documents\projecteuler\bin\Debug\netcoreapp3.0\projecteuler.dll
+C:\Users\Charlie.Benjamin\Documents\projecteuler\bin\Debug\netcoreapp3.0\projecteuler.pdb
+C:\Users\Charlie.Benjamin\Documents\projecteuler\obj\Debug\netcoreapp3.0\projecteuler.csprojAssemblyReference.cache
+C:\Users\Charlie.Benjamin\Documents\projecteuler\obj\Debug\netcoreapp3.0\projecteuler.AssemblyInfoInputs.cache
+C:\Users\Charlie.Benjamin\Documents\projecteuler\obj\Debug\netcoreapp3.0\projecteuler.AssemblyInfo.cs
+C:\Users\Charlie.Benjamin\Documents\projecteuler\obj\Debug\netcoreapp3.0\projecteuler.dll
+C:\Users\Charlie.Benjamin\Documents\projecteuler\obj\Debug\netcoreapp3.0\projecteuler.pdb
